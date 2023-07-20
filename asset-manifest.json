@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/first_react/static/css/main.794fb613.css",
+    "main.js": "/first_react/static/js/main.918d3a56.js",
+    "static/media/Header Illustration.png": "/first_react/static/media/Header Illustration.83b18734a370b69ee3e2.png",
+    "static/media/Feature Image.png": "/first_react/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
+    "static/media/Blog-1.png": "/first_react/static/media/Blog-1.4dd90b64f4797f740bdd.png",
+    "static/media/Blog-4.png": "/first_react/static/media/Blog-4.c6c07172d9a995e86aa5.png",
+    "static/media/Blog-2.png": "/first_react/static/media/Blog-2.2c817780af4145b90e73.png",
+    "static/media/Blog-3.png": "/first_react/static/media/Blog-3.94a8818460bd840bb078.png",
+    "static/media/Blog-5.png": "/first_react/static/media/Blog-5.8f6de3056609da77b523.png",
+    "static/media/Group 81.png": "/first_react/static/media/Group 81.bad16829c7341d6783d8.png",
+    "static/media/dropbox.png": "/first_react/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
+    "static/media/atlassian.png": "/first_react/static/media/atlassian.a2397815b0c1110835b8.png",
+    "static/media/GPT-3.svg": "/first_react/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/first_react/index.html",
+    "main.794fb613.css.map": "/first_react/static/css/main.794fb613.css.map",
+    "main.918d3a56.js.map": "/first_react/static/js/main.918d3a56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794fb613.css",
+    "static/js/main.918d3a56.js"
+  ]
+}
