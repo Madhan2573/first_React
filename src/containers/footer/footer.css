@@ -1,0 +1,114 @@
+.gpt3__footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background: var(--color-footer);
+}
+
+.gpt3__footer-title{
+    max-width: 820px;
+}
+
+.gpt3__footer-title h1{
+    font-family: var(--font-family);
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    text-align: center;   
+}
+
+.gpt3__footer-button{
+    margin-top: 3rem;     
+}
+
+.gpt3__footer-button button{
+    padding: 1rem 1.5rem;
+    background-color: transparent;
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 21px;
+    border-color: #fff;
+
+    margin-bottom: 5rem;
+    cursor: pointer;
+}
+
+.gpt3__footer-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 5rem;
+}
+
+.gpt3__footer-content p{
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.gpt3__footer-content h1{
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 16px;
+    padding-bottom: 1rem;
+}
+
+.gpt3__footer-content_logo{
+    width: 168px;
+    align-items: center;
+}
+
+.gpt3__footer-content_logo img{
+    margin-bottom: 1rem;
+}
+
+.gpt3__footer-last{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gpt3__footer-last p{
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 5rem;
+    margin-bottom: -2rem;
+}
+
+@media screen and (max-width: 800px) {
+    .gpt3__footer-title h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .gpt3__footer-button button{
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .gpt3__footer-content{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 3rem;
+        margin-top: -5rem;
+        margin-left: 2rem;
+    }
+}
+
+
+
+
+
+
